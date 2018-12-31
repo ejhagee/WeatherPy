@@ -1,5 +1,5 @@
 # WeatherPy
-![Temp plot](https://github.com/ejhagee/Python-Data-Visualization-Projects/blob/master/WeatherPy/Resources/Temperature_Plot.png)
+![Temp plot](https://github.com/ejhagee/WeatherPy/blob/master/Resources/Temperature_Plot.png)
 
 ## Description
 This project investigates how different latitudes result in various weather measurments such as latitude, wind speed, humidity, and cloud cover.  It appears that the main difference observed is in temperature, while any trends in the other three are small at most.
